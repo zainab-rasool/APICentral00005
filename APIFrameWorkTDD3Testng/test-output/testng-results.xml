@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="3380" started-at="2020-04-11T09:08:55Z" finished-at="2020-04-11T09:08:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="3380" started-at="2020-04-11T09:08:55Z" finished-at="2020-04-11T09:08:58Z">
+      <class name="org.testing.TestScripts.TC4">
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:org.testing.TestScripts.TC4@1a947fe]" name="testcase4" duration-ms="45" started-at="2020-04-11T14:38:58Z" finished-at="2020-04-11T14:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+      </class> <!-- org.testing.TestScripts.TC4 -->
+      <class name="org.testing.TestScripts.TC3">
+        <test-method status="PASS" signature="testcase3()[pri:0, instance:org.testing.TestScripts.TC3@1359ed8]" name="testcase3" duration-ms="34" started-at="2020-04-11T14:38:58Z" finished-at="2020-04-11T14:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase3 -->
+      </class> <!-- org.testing.TestScripts.TC3 -->
+      <class name="org.testing.TestScripts.TC5">
+        <test-method status="PASS" signature="testcase5()[pri:0, instance:org.testing.TestScripts.TC5@1606c0b]" name="testcase5" duration-ms="32" started-at="2020-04-11T14:38:58Z" finished-at="2020-04-11T14:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- org.testing.TestScripts.TC5 -->
+      <class name="org.testing.TestScripts.TC2">
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:org.testing.TestScripts.TC2@1574691]" name="testcase2" duration-ms="50" started-at="2020-04-11T14:38:58Z" finished-at="2020-04-11T14:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- org.testing.TestScripts.TC2 -->
+      <class name="org.testing.TestScripts.TC1">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:org.testing.TestScripts.TC1@44d69d]" name="testcase1" duration-ms="3174" started-at="2020-04-11T14:38:55Z" finished-at="2020-04-11T14:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- org.testing.TestScripts.TC1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
